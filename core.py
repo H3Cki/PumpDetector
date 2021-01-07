@@ -38,7 +38,7 @@ SETTINGS = {
 'skipMenu': False
 }
 
-client = Client("fxKHvklMVgnnUvTFzRsmpxrN4dCrGDfjsaroKgh6BpG5JPybNR8r4K8suiv97fXe", "H2qct15Btfo7eDeSucJ46oHsiiJ82TSJMzLzNGwplKZNNFj8gjDh0r5BpdPTP25M")
+client = Client()
 bm = BinanceSocketManager(client)
 
 
